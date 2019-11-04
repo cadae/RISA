@@ -1,0 +1,41 @@
+{
+  "name": "react-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.jsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^4.0.0",
+    "@progress/kendo-react-buttons": "3.6.0",
+    "@progress/kendo-react-conversational-ui": "3.6.0",
+    "@progress/kendo-react-dateinputs": "3.6.0",
+    "@progress/kendo-react-intl": "3.6.0",
+    "axios": "^0.19.0",
+    "prop-types": "15.7.2",
+    "react": "16.11.0",
+    "react-dom": "16.11.0",
+    "react-scripts": "^3.2.0",
+    "react-transition-group": "4.3.0",
+    "rn-fetch-blob": "^0.11.2",
+    "webpack-dev-server": "^3.2.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
