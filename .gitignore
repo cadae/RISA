@@ -1,9 +1,9 @@
 # Don't track content of these folders
 react-chat/node_modules/
-BERT-NER/model
-BERT-NER/model_spanbert_trained
-BERT-SQuAD/model
-BERT-SQuAD/model_spanbert_trained
+BERT-NER/model/
+BERT-NER/model_spanbert_trained/
+BERT-SQuAD/model/
+BERT-SQuAD/model_spanbert_trained/
 BERT-SQuAD/__pycache__/
 BERT-NER/__pycache__/
 
