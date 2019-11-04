@@ -4,6 +4,8 @@ BERT-NER/model
 BERT-NER/model_spanbert_trained
 BERT-SQuAD/model
 BERT-SQuAD/model_spanbert_trained
+BERT-SQuAD/__pycache__/
+BERT-NER/__pycache__/
 
 # Compiled source #
 ###################
@@ -27,3 +29,5 @@ BERT-SQuAD/model_spanbert_trained
 *.rar
 *.tar
 *.zip
+.vscode/settings.json
+
